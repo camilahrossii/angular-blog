@@ -11,3 +11,9 @@ header {
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width:600px) {
+    .container__articles {
+        flex-direction: column;
+    }
+}

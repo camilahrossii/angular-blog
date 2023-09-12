@@ -4,6 +4,12 @@
 }
 
 .container__menu-bar > ul > li {
+    cursor: pointer;
     margin-right:20px;
     list-style: none;
+    transition: .5s;
+}
+
+.container__menu-bar > ul > li > a:hover {
+    color: #042fec;
 }
