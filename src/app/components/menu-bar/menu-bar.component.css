@@ -7,9 +7,27 @@
     cursor: pointer;
     margin-right:20px;
     list-style: none;
+}
+
+.container__menu-bar > ul > li > a {
+    position: relative;
+}
+
+.container__menu-bar > ul > li > a:hover {    
+    color: #7f09b6;
+}
+
+.container__menu-bar > ul > li > a::after {
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #8b49d6;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
     transition: .5s;
 }
 
-.container__menu-bar > ul > li > a:hover {
-    color: #042fec;
+.container__menu-bar > ul > li > a:hover::after {
+    width: 100%;
 }

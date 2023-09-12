@@ -1,0 +1,15 @@
+.container__footer {
+    width: 100%;
+}
+
+.container__footer > p {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.container__footer > p > span {
+    color: rgb(185, 17, 87);
+}

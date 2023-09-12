@@ -27,3 +27,22 @@
     color: #b8b6b6;
 }
 
+.big-card__description > p > a {
+    transition: .8s;
+    cursor: pointer;
+}
+
+.big-card__description > p > a:hover {  
+    color: #7f09b6;;
+}
+
+@media screen and (max-width: 880px) {
+    .container__big-card { 
+        width: 100%;
+    }
+    
+    .big-card__photo > img {
+        width: 100%;
+        min-width: 300px;
+    }
+}

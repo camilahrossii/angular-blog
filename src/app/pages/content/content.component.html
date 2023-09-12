@@ -1,0 +1,24 @@
+<div class="container__content">
+    <div class="content__title">
+        <h1 class="title">{{ contentTitle }}</h1>
+        <span class="subtitle">{{ contentSubtitle }}</span>
+    </div>
+    <div class="content__cover">
+        <img src="{{ photoCover }}" alt="">
+    </div>
+    <div class="content__description">
+        <span>
+            {{ contentDescription }}
+
+        </span>
+    </div>
+
+    <hr />
+
+    <div class="content__buttons">
+        <a [routerLink]="['']"> << VOLTAR </a>        
+        <span> • </span>
+        <a [routerLink]="['']"> PRÓXIMO >> </a>
+    </div>
+
+</div>

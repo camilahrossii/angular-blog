@@ -1,0 +1,37 @@
+export const dataFake = [
+    {
+        "id":"1",
+        "photoCover":"https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+        "title":"Primeiro Artigo do Blog",
+        "subtitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo."
+
+    },
+    {
+        "id":"2",
+        "photoCover":"https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+        "title":"Segundo Artigo do Blog",
+        "subtitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo."
+    },
+    {
+        "id":"3",
+        "photoCover":"https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+        "title":"Terceiro Artigo do Blog",
+        "subtitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo."
+
+    },
+    {
+        "id":"4",
+        "photoCover":"https://anbc.org.br/wp-content/uploads/2015/12/placeholder.gif",
+        "title":"Quarto Artigo do Blog",
+        "subtitle":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        
+        "description":`Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? 
+        Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo.Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+        Cumque eligendi optio libero dolorem maxime nesciunt aliquid ducimus molestiae sit repellendus veritatis consectetur expedita facilis, sequi odio odit quod quia pariatur a perspiciatis. Commodi harum veniam quae praesentium? Natus placeat harum tempore nisi sed mollitia. Dolor exercitationem ex doloremque ab sequi ipsam sapiente cumque animi nisi! Impedit excepturi distinctio vitae, omnis beatae dolore id quos consequatur dolor dolorum? Reprehenderit animi labore voluptate adipisci quia eligendi id, harum hic ullam, mollitia maiores modi saepe consectetur in officia, repellat dicta! Nostrum, placeat nemo.Lorem ipsum dolor sit, amet consectetur adipisicing elit.`
+
+    },
+]
