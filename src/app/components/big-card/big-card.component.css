@@ -36,13 +36,3 @@
     color: #7f09b6;;
 }
 
-@media screen and (max-width: 880px) {
-    .container__big-card { 
-        width: 100%;
-    }
-    
-    .big-card__photo > img {
-        width: 100%;
-        min-width: 300px;
-    }
-}
